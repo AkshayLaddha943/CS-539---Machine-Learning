@@ -9,7 +9,10 @@ Additional Readings:
 * [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 
+
+
 Assignments:
+
 HW1: Getting started with Python and Decision Tree
 HW1: Getting started with Python and Decision Tree
 HW1: Getting started with Python and Decision Tree

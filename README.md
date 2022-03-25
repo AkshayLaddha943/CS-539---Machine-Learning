@@ -11,14 +11,14 @@ Additional Readings:
 
 
 
-Assignments:
+### Assignments:
 
-[hw1: Getting started with Python, Decision Tree and Credit Risk Prediction](https://github.com/AkshayLaddha943/CS539-Machine-Learning/tree/main/Homework1)
+hw1: Getting started with Python, Decision Tree and Credit Risk Prediction
 
-HW2: Linear Regression with gradient descent
+hw2: Linear Regression with gradient descent
 
-HW3: Logistic regression with stochastic gradient descent
+hw3: Logistic regression with stochastic gradient descent
 
-HW4: Softmax regression and neural networks
+hw4: Softmax regression and neural networks
 
-HW5: SVM with linear kernel using subgradient
+hw5: SVM with linear kernel using subgradient(

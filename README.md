@@ -13,7 +13,7 @@ Additional Readings:
 
 Assignments:
 
-HW1: Getting started with Python, Decision Tree and Credit Risk Prediction
+[hw1: Getting started with Python, Decision Tree and Credit Risk Prediction](https://github.com/AkshayLaddha943/CS539-Machine-Learning/tree/main/Homework1)
 
 HW2: Linear Regression with gradient descent
 

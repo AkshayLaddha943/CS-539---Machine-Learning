@@ -13,12 +13,12 @@ Additional Readings:
 
 Assignments:
 
-HW1: Getting started with Python and Decision Tree
+HW1: Getting started with Python, Decision Tree and Credit Risk Prediction
 
-HW1: Getting started with Python and Decision Tree
+HW2: Linear Regression with gradient descent
 
-HW1: Getting started with Python and Decision Tree
+HW3: Logistic regression with stochastic gradient descent
 
-HW1: Getting started with Python and Decision Tree
+HW4: Softmax regression and neural networks
 
-HW1: Getting started with Python and Decision Tree
+HW5: SVM with linear kernel using subgradient
